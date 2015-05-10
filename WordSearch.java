@@ -5,11 +5,7 @@
 
   Student Name: ZACHARY GOODMAN
 
-  Student UT EID: ZJG95
-
   Course Name: CS 312 
-
-  Unique Number: 53240
 
   Date Created: 4/8/13
 
