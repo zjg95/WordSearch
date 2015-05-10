@@ -1,0 +1,16 @@
+BLUE         26  13
+CRYSTAL      12  12
+DIAMOND      18  25
+EMERALD      17   5
+FIRE          3   2
+GOLD         21  21
+GREEN        14  29
+LEAF          9   7
+PEARL         5   8
+PLATINUM     25  31
+POKEMON      29   1
+RED          19   8
+RUBY         27   2
+SAPPHIRE     23  15
+SILVER       30  27
+YELLOW        5  21
